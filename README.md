@@ -23,6 +23,10 @@ The Zim Student Program Recommendation System is designed to help students deter
 
 #### O-Level Subjects Dataset (Example Format)
 
+| Attempt | #1    | #2    |
+| :---:   | :---: | :---: |
+| Seconds | 301   | 283   |
+
 Subject Code  Subject Name
 4001          Mathematics
 4002          English Language
