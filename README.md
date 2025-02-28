@@ -23,22 +23,21 @@ The Zim Student Program Recommendation System is designed to help students deter
 
 #### O-Level Subjects Dataset (Example Format)
 
-| Subject Code | Subject Name    |    
-| 4001 | Mathematics   |    
-| 4002 | English Language   | 
-| 4003 | Physics   |   
-| 4004 | Chemistry   |   
-
-
-
+| Subject Code | Subject Name  |
+|-------------|--------------|
+| 4001        | Mathematics  |
+| 4002        | Physics      |
+| 4003        | Chemistry    |
+| 4004        | Biology      |
 
 #### A-Level Subjects Dataset (Example Format)
 
-Subject Code  Subject Name
-5001          Mathematics
-5002          Physics
-5003          Chemistry
-5004          Biology
+| Subject Code | Subject Name  |
+|-------------|--------------|
+| 5001        | Mathematics  |
+| 5002        | Physics      |
+| 5003        | Chemistry    |
+| 5004        | Biology      |
 
 #### Fake Student Results Dataset (Example Format)
 
