@@ -41,10 +41,11 @@ The Zim Student Program Recommendation System is designed to help students deter
 
 #### Fake Student Results Dataset (Example Format)
 
-Student ID   O-Level Grades    A-Level Grades
-001          A, B, C, A, B     A, B, A
-002          B, C, C, A, A     B, B, C
-003          A, A, B, B, A     A, A, A
+| Student ID | O-Level Grades     | A-Level Grades |
+|------------|-------------------|---------------|
+| 001        | A, B, C, A, B     | A, B, A       |
+| 002        | B, C, C, A, A     | B, B, C       |
+| 003        | A, A, B, B, A     | A, A, A       |
 
 ## Program Recommendation Logic
 The recommendation system will work by analyzing:
@@ -55,10 +56,11 @@ The recommendation system will work by analyzing:
 
 ## Example Program Mapping
 
-Subjects Taken                       Recommended Programs
-Maths, Physics, Chemistry            Engineering, Computer Science, Medicine
-Maths, Geography, Business Studies   Economics, Accounting, Business Administration
-Biology, Chemistry, Physics          Medicine, Pharmacy, Biomedical Science
+| Subjects Taken                        | Recommended Programs                            |
+|---------------------------------------|-----------------------------------------------|
+| Maths, Physics, Chemistry             | Engineering, Computer Science, Medicine      |
+| Maths, Geography, Business Studies    | Economics, Accounting, Business Administration |
+| Biology, Chemistry, Physics           | Medicine, Pharmacy, Biomedical Science       |
 
 ## Technology Stack
 
